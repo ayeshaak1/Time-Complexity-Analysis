@@ -26,16 +26,6 @@ gcc -o time_complexity_analysis main.c functionPrototypes.h -lm
    - Calculate the nth Fibonacci number using an iterative approach and measure the execution time.
    - Calculate the nth Fibonacci number using a recursive approach and measure the execution time.
 
-## Execution
-
-To run the program, provide an integer n as a command-line argument. The program will then calculate the sum of n odd numbers and the nth Fibonacci number using both iterative and recursive methods.
-
-Example:
-
-```bash
-./time_complexity_analysis 10
-```
-
 ## Results
 
 The program will display the results of the time complexity analysis, including the sums and Fibonacci numbers, as well as the elapsed time for each operation.
